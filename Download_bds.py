@@ -56,9 +56,9 @@ print("Extracted, deleting zip file...")
 print("正在解压后删除zip文件...")
 os.remove(dstFile)
 
-print("Run SymDB2.exe")
-print("运行SymDB2.exe中...")
-os.system("SymDB2.exe")
+print("Run LLPeEditor.exe")
+print("运行LLPeEditor.exe中...")
+os.system("LLPeEditor.exe")
 
 print("Finished")
 print("完成")
