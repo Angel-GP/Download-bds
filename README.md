@@ -14,10 +14,10 @@ Download bds是一款由python编写的bds核心下载器
 1.进入https://www.minecraft.net/zh-hans/download/server/bedrock  
 2.鼠标放在"下载"上，点击鼠标右键，在出来的工具栏中点击"复制链接"   
 ![链接](picture/官网.png "链接")
-3.将链接粘贴在记事本上查看版本号   
+3.将链接粘贴在记事本上查看版本号     
 4.选中版本号并复制
-![版本号复制](picture/记事本.png "版本号复制")
-5.打开Download bds.py  
+![版本号复制](picture/记事本.png "版本号复制")  
+5.打开Download bds.py    
 6.将复制的版本号替换到此处   
 ![版本号替换](picture/VSCode.png "版本号替换")  
 7.保存并关闭，即可完成  
