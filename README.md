@@ -35,10 +35,14 @@ Download bds是一款由python编写的bds核心下载器
 
 ### 注意
 当您在使用LiteLoader 2.2.0及更老的版本时，需要更改以下代码  
-将Download bds.py的59至61行的    
+将Download bds.py的59至61行的
+```
+{
     print("Run SymDB2.exe")   
     print("运行SymDB2.exe中...")    
-    os.system("SymDB2.exe")  
+    os.system("SymDB2.exe")
+}
+```
 更改为     
     print("Run LLPeEditor.exe")     
     print("运行LLPeEditor.exe中...")      
