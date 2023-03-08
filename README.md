@@ -24,7 +24,7 @@ Download bds是一款由python编写的bds核心下载器
 
 ### 如何将.py转换为.exe可执行文件
 1.此处使用的是pyinstaller将.py转换为.exe  
-2.将build.bat和Download bds.py放在同一个文件夹内
+2.将build.bat和Download bds.py放在同一个文件夹内   
 3.双击运行build.bat即可自动下载pyinstaller并将.py转换为.exe   
 4.转换完毕的文件在dist文件夹内  
 
