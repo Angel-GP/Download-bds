@@ -31,4 +31,15 @@ Download bds是一款由python编写的bds核心下载器
 ### 如何使用
 1.删除你的整合包内的bds核心   
 2.将Download bds.exe放到整合包根目录     
-3.双击运行即可下载核心
+3.双击运行即可下载核心   
+
+###注意
+当您在使用LiteLoader 2.2.0及更老的版本时，需要更改以下代码  
+将59至61行的
+    print("Run SymDB2.exe")
+    print("运行SymDB2.exe中...")
+    os.system("SymDB2.exe")  
+更改为
+    print("Run LLPeEditor.exe")
+    print("运行LLPeEditor.exe中...")
+    os.system("LLPeEditor.exe")
