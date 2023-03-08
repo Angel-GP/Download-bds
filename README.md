@@ -24,11 +24,11 @@ Download bds是一款由python编写的bds核心下载器
 
 ### 如何将.py转换为.exe可执行文件
 1.此处使用的是pyinstaller将.py转换为.exe  
-2.将build.bat和Download bds放在同一个文件夹内
+2.将build.bat和Download bds.py放在同一个文件夹内
 3.双击运行build.bat即可自动下载pyinstaller并将.py转换为.exe   
 4.转换完毕的文件在dist文件夹内  
 
 ### 如何使用
 1.删除你的整合包内的bds核心   
-2.将Download bds放到整合包根目录     
+2.将Download bds.exe放到整合包根目录     
 3.双击运行即可下载核心
