@@ -43,7 +43,11 @@ Download bds是一款由python编写的bds核心下载器
     os.system("SymDB2.exe")
 }
 ```
-更改为     
+更改为
+```
+{
     print("Run LLPeEditor.exe")     
     print("运行LLPeEditor.exe中...")      
     os.system("LLPeEditor.exe")
+}
+```
