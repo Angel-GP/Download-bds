@@ -19,7 +19,7 @@ Download bds是一款由python编写的bds核心下载器
 ![版本号复制](picture/记事本.png "版本号复制")
 5.打开Download bds.py  
 6.将复制的版本号替换到此处   
-![版本号替换](picture/VSCode.png "版本号替换")
+![版本号替换](picture/VSCode.png "版本号替换")  
 7.保存并关闭，即可完成  
 
 ### 如何将.py转换为.exe可执行文件
